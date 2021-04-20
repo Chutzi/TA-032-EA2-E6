@@ -1,0 +1,13 @@
+C:\Users\Jesus Hernandez\Desktop\FUSUFUM\SEMESTRE 4\Automatas\TA 032 EA2 E6\TA 032 EA2 E6\bin\Debug\netcoreapp3.1\TA 032 EA2 E6.exe
+C:\Users\Jesus Hernandez\Desktop\FUSUFUM\SEMESTRE 4\Automatas\TA 032 EA2 E6\TA 032 EA2 E6\bin\Debug\netcoreapp3.1\TA 032 EA2 E6.deps.json
+C:\Users\Jesus Hernandez\Desktop\FUSUFUM\SEMESTRE 4\Automatas\TA 032 EA2 E6\TA 032 EA2 E6\bin\Debug\netcoreapp3.1\TA 032 EA2 E6.runtimeconfig.json
+C:\Users\Jesus Hernandez\Desktop\FUSUFUM\SEMESTRE 4\Automatas\TA 032 EA2 E6\TA 032 EA2 E6\bin\Debug\netcoreapp3.1\TA 032 EA2 E6.runtimeconfig.dev.json
+C:\Users\Jesus Hernandez\Desktop\FUSUFUM\SEMESTRE 4\Automatas\TA 032 EA2 E6\TA 032 EA2 E6\bin\Debug\netcoreapp3.1\TA 032 EA2 E6.dll
+C:\Users\Jesus Hernandez\Desktop\FUSUFUM\SEMESTRE 4\Automatas\TA 032 EA2 E6\TA 032 EA2 E6\bin\Debug\netcoreapp3.1\TA 032 EA2 E6.pdb
+C:\Users\Jesus Hernandez\Desktop\FUSUFUM\SEMESTRE 4\Automatas\TA 032 EA2 E6\TA 032 EA2 E6\obj\Debug\netcoreapp3.1\TA 032 EA2 E6.csprojAssemblyReference.cache
+C:\Users\Jesus Hernandez\Desktop\FUSUFUM\SEMESTRE 4\Automatas\TA 032 EA2 E6\TA 032 EA2 E6\obj\Debug\netcoreapp3.1\TA 032 EA2 E6.AssemblyInfoInputs.cache
+C:\Users\Jesus Hernandez\Desktop\FUSUFUM\SEMESTRE 4\Automatas\TA 032 EA2 E6\TA 032 EA2 E6\obj\Debug\netcoreapp3.1\TA 032 EA2 E6.AssemblyInfo.cs
+C:\Users\Jesus Hernandez\Desktop\FUSUFUM\SEMESTRE 4\Automatas\TA 032 EA2 E6\TA 032 EA2 E6\obj\Debug\netcoreapp3.1\TA 032 EA2 E6.csproj.CoreCompileInputs.cache
+C:\Users\Jesus Hernandez\Desktop\FUSUFUM\SEMESTRE 4\Automatas\TA 032 EA2 E6\TA 032 EA2 E6\obj\Debug\netcoreapp3.1\TA 032 EA2 E6.dll
+C:\Users\Jesus Hernandez\Desktop\FUSUFUM\SEMESTRE 4\Automatas\TA 032 EA2 E6\TA 032 EA2 E6\obj\Debug\netcoreapp3.1\TA 032 EA2 E6.pdb
+C:\Users\Jesus Hernandez\Desktop\FUSUFUM\SEMESTRE 4\Automatas\TA 032 EA2 E6\TA 032 EA2 E6\obj\Debug\netcoreapp3.1\TA 032 EA2 E6.genruntimeconfig.cache

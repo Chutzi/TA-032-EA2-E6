@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>TA 032 EA2 E6</RootNamespace>
+    <ApplicationIcon>FCFM HD.ico</ApplicationIcon>
+  </PropertyGroup>
+
+</Project>

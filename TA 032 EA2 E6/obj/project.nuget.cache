@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dt/VjbrvDbK4fCUhNDJp2J5UUkOUlRj9R5m8zAx70jAtDNO/SkBRWUNG0ZwTZaAEyz/wWef7dYqWzBc5Y1AfdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jesus Hernandez\\Desktop\\FUSUFUM\\SEMESTRE 4\\Automatas\\TA 032 EA2 E6\\TA 032 EA2 E6\\TA 032 EA2 E6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jesus Hernandez\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
